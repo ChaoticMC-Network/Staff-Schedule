@@ -13,4 +13,4 @@ Note: Starting tomorrow, all changes to the document will be logged.
 Key:
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Future`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Complete`
+- ![#15ff00](https://placehold.it/15/15ff00/000000?text=+) `Complete`
