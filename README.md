@@ -1,5 +1,6 @@
 # Staff-Schedule
-Here is where Schedules for updates will be posted
+Here is where Schedules for updates will be posted.
+Note: Starting tomorrow, all changes to the document will be logged.
 
 | Date | Time | Description | Server | Staff |
 | -----:| ------:| ---------------:| ---------:| ------:|
