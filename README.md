@@ -15,6 +15,6 @@ Key:
 | Color | Description |
 | ----:| ------------:|
 |![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |Incomplete|
-  ![#8f1ecc](https://placehold.it/15/8f1ecc/000000?text=+) `Pending`
-
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Future`      ![#15ff00](https://placehold.it/15/15ff00/000000?text=+) `Complete`
+|![#8f1ecc](https://placehold.it/15/8f1ecc/000000?text=+) |Pending|
+|![#c5f015](https://placehold.it/15/c5f015/000000?text=+) |Future|      
+|![#15ff00](https://placehold.it/15/15ff00/000000?text=+) |Complete|
