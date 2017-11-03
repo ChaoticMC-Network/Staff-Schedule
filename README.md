@@ -7,7 +7,7 @@ Note: Starting tomorrow, all changes to the document will be logged.
 | Date | Time | Description | Server | Staff | Status |
 | -----:| ------:| ---------------:| ---------:| ------:| -----:|
 | 11/3 | 9:00 PM | Bug Patch | KitPvP | JustADev |![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-| 11/12 | 5:00 PM | KitPvP Update v1.3 | KitPvP | JustADev | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ![#8f1ecc](https://placehold.it/15/8f1ecc/000000?text=+) |
+| 11/12 | 5:00 PM | KitPvP Update| KitPvP | JustADev | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ![#8f1ecc](https://placehold.it/15/8f1ecc/000000?text=+) |
 
 
 Key:
